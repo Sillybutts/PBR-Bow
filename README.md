@@ -43,7 +43,7 @@ Infills:
 
 ## Hardware
 
-Full hardware list: 
+Full hardware list: https://docs.google.com/spreadsheets/d/1sMbMzZiYjJnqrFWFHJ_mY_JVUDBdcfN-nKqcblzo42Q/edit?usp=sharing
 
 ## Assembly
 

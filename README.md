@@ -25,7 +25,7 @@ Fully printed/assembled blasters are available from these sellers:
 Infills:
 - Black: 
 - - Print 2x GripBody.
-- - PlungerRod, BackBracket, 100% Gyroid, 5+ walls.
+- - PlungerRod, BackBracket, BackBlock, 100% Gyroid, 5+ walls.
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Orange: 
@@ -36,6 +36,9 @@ Infills:
 - - Print 2x of each green part.
 - - Everything, 20% Gyroid, 5 walls. 
 - - Go 100% infill 5 walls for extra strength (recommended).
+
+- All Attachments:
+- - Everything, 20% Gyroid, 5 walls. 
 
 
 ## Hardware

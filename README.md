@@ -30,6 +30,7 @@ Infills:
 
 - Orange: 
 - - PrimingHandleBracket, 100% infill, 5 walls.
+- - Print 2x PrimingHandleBracket.
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Green: 

@@ -3,7 +3,7 @@ A very simple faux bow, the PBR (Pull Back and Release) Bow.
 
 ## Description
 
-<img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%202.png" width="500">
+<img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%202.png" width="300">
 
 <img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%201.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%203.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%204.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%205.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%206.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%207.png" width="300">
 

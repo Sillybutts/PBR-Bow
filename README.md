@@ -53,6 +53,8 @@ Infills:
 
 Full hardware list: https://docs.google.com/spreadsheets/d/1sMbMzZiYjJnqrFWFHJ_mY_JVUDBdcfN-nKqcblzo42Q/edit?usp=sharing
 
+**Note on springs: This blaster is meant to use springs that are 7 inches long, however, there is an optional printable spacer for using Talon Claw/Lynx length springs (5.5 inch).**
+
 ## Assembly
 
 Video: WIP

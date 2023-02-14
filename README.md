@@ -13,15 +13,18 @@ The PBR Bow (Pull Back and Release) is a very simple faux bow blaster with a mod
 ## Modular Front Ends
 
 There are many different front end modules for the PBR bow:
-- 
-- 
+- Integrated Wye Hopper
+- Integrated RSCB
+- Titan Rocket Launcher thread that fits all my Titan replacement barrels (MegaXL, Mega, Elite, Titan rockets, Demolisher missiles, Rival, etc)
+- Two different lengths of SCH 40 1/2in PVC nubs for your own stuff
+- And a standalone hopper and RSCB to go on those PVC nubs if the integrated version isn't to your liking.
 
 ## Sellers
 Hardware is available from these sellers:
-- WIP
+- OutOfDarts: https://outofdarts.com/products/pbr-bow-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- WIP
+- None currently.
 
 ## Print Info
 
@@ -34,6 +37,7 @@ Infills:
 - Orange: 
 - - PrimingHandleBracket, 100% infill, 5 walls.
 - - Print 2x PrimingHandleBracket.
+- - Print 2x BowArmCap (if you are using the optional CPVC bow arms).
 - - Everything else, 20% Gyroid, 5 walls. 
 
 - Green: 
@@ -76,8 +80,6 @@ Video: WIP
 <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts Monthly donations
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
-
-And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 
 ## Images

@@ -16,6 +16,7 @@ There are many different front end modules for the PBR bow:
 - Integrated Wye Hopper
 - Integrated RSCB
 - Titan Rocket Launcher thread that fits all my Titan replacement barrels (MegaXL, Mega, Elite, Titan rockets, Demolisher missiles, Rival, etc)
+- - The Titan muzzle also fits this Little Rocket lug adapter from OutOfDarts: https://outofdarts.com/products/adventure-force-nexus-pro-little-rocket-barrel-adapter
 - Two different lengths of SCH 40 1/2in PVC nubs for your own stuff
 - And a standalone hopper and RSCB to go on those PVC nubs if the integrated version isn't to your liking.
 

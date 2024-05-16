@@ -8,6 +8,11 @@ A very simple faux bow, the PBR (Pull Back and Release) Bow.
 <img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%201.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%203.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%204.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%205.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%206.png" width="300"><img src="GHimages/PBR%20pull%20back%20and%20release%20bow%20v45%207.png" width="300">
 
 
+<a href="https://www.printables.com/model/876458-pbr-bow-printed-nerf-blaster"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/876458-pbr-bow-printed-nerf-blaster
+
+
 The PBR Bow (Pull Back and Release) is a very simple faux bow blaster with a modular front end for many different loading methods and ammo types. 
 
 ## Modular Front Ends

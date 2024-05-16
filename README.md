@@ -1,5 +1,5 @@
 # PBR-Bow
-A very simple faux bow, the PBR (Pull Back and Release) Bow.
+A very simple faux bow, the PBR (Pull Back and Release) Bow. 
 
 ## Description
 
